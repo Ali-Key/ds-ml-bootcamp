@@ -1,6 +1,6 @@
 # 📘 Assignment 8 — Clustering (Unsupervised Learning)
 
-**Author:** Ali Omar Abdi
+**Author:** Ali Omar Abdi 
 **Project Type:** Academic Assignment — Machine Learning (Unsupervised Learning)
 
 ---
