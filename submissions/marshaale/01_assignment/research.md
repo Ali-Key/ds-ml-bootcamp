@@ -45,6 +45,13 @@ A machine needs data to learn and make predictions, so every data is raw and mes
 
 - `Communication & Deployment`
 
+## 5 Explain how training data and test data are split, and why this process is necessary.
+A train-test split is the process of dividing a dataset into two parts.
+The training set is used to train the machine learning model to learn patterns.
+The test set consists of unseen data that is not used during training and is used to evaluate how well the model has learned those patterns and how effectively it can generalize to new data.
+
+`This process is necessary allows you to test your model in development phase.`
+
 ## 6 Adoption-Driven Data Science for Transportation Planning: Methodology, Case Study, and Lessons Learned
 
 The study presents a collaborative data science methodology for solving transportation problems and demonstrates its effectiveness by applying it to estimate the transportation mode share in a city of 8 million people. The project successfully generated actionable insights and helped establish the first official use of mobile phone data for understanding transportation patterns in Chile.
