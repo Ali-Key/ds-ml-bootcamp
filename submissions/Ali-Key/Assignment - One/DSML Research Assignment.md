@@ -6,15 +6,8 @@
 
 **Course:** Introduction to Data Science and Machine Learning  
 **Due:** Monday, June 15, 2026 at 12:00 PM (Africa/Mogadishu / EAT)  
-**Sources:** 16 references — books, scholarly articles, and peer-reviewed papers        
+**Sources:** 16 references — books, scholarly articles, and peer-reviewed papers                             
 **Author:** Ali Omar Abdi - Alikey
-
----
-
-**Course:** Introduction to Data Science and Machine Learning
-**Due:** Monday, June 15, 2026 at 12:00 PM (Africa/Mogadishu / EAT)
-**Sources:** 16 references — books, scholarly articles, and peer-reviewed papers
-**Style:** Beginner-friendly, written in own words, all claims cited
 
 ---
 
