@@ -10,7 +10,7 @@ The Dataset contains car rental information, The initial data seed was taken fro
 
 ## How did you collect it?
 
-I collected the seed data by visiting [Honsi Rental Car website](https://hosnirentalcar.com/vehicles) and manually gathering the information.
+I collected the seed data by visiting [Honsi Rental Car website](https://hosnirentalcar.com/vehicles) and manually gathering the information of cars such as name of the car rate,seats,transmission,fuel,price_per_day.
 
 ## Description of Features & Labels?
 
@@ -72,6 +72,8 @@ The learning type of this dataset is supervised because we have features/inputs 
 ## Use Case?
 
 The machine learning use case for this dataset is supervised learning, specifically regression. It is a regression problem because the target (label) is a continuous numerical value.
+
+This dataset will be useful for cars daily price rate prediction and statistical analysis to uncover hidden insights.
 
 ### Where would it fit in the Data Science lifecycle?
 
